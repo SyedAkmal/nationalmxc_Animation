@@ -1,0 +1,283 @@
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~~~ Bootstrap Variables ~~~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~ Color system ~~~~~ */
+/* ~~~~~ Grid ~~~~~ */
+/* ~~~~~ Fonts ~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~~ Variables ~~~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~~ WP Admin Bar heights ~~~~~~~~~~ */
+/* ~~~~~~~~~~ Settings ~~~~~~~~~~ */
+/* ~~~~~~~~~~ Fonts ~~~~~~~~~~ */
+/* ~~~~~~~~~~ Plugins ~~~~~~~~~~ */
+/* ~~~~~ OWL Carousel ~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~~ Mixins ~~~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~~ Helper Functions ~~~~~~~~~~ */
+/* ~~~~~ Strip Unit ~~~~~ */
+/* ~~~~~ Convert to REM ~~~~~ */
+/* ~~~~~ Get Crunch Spacer ~~~~~ */
+/* ~~~~~~~~~~~~ Fluid  ~~~~~~~~~~~~ */
+/* ~~~~~~~~ String split ~~~~~~~~ */
+/* ~~~~~~~~ String replace ~~~~~~~~ */
+/* ~~~~~~~~ Join sign with number  ~~~~~~~~ */
+/* ~~~~~~~~~~ String to number conversion by Hugo Giraudel ~~~~~~~~~~ */
+/* ~~~~~ Helper for fluid function ~~~~~ */
+/* ~~~~~ Letter-spacing functions ~~~~~ */
+/* ~~~~~~~~ Return index of array diff ~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~~~ Fluid ~~~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~ Fluid margin/padding helpers ~~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~ Spacings ~~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~~ Sizing Class Generator ~~~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~ Classes ~~~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~~ Respond to specific brekpoint ~~~~~~~~~~ */
+/* ~~~~~~~~~~ Bootsrap Container Max Width ~~~~~~~~~~ */
+/* ~~~~~~~~~~ Transition ~~~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~~ Placeholders ~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~~ Background cover ~~~~~~~~~~ */
+/* ~~~~~~~~~~ Object Fit ~~~~~~~~~~ */
+/* ~~~~~~~~~~ Hide ~~~~~~~~~~ */
+/* ~~~~~~~~~~ Adjustable Element ~~~~~~~~~~ */
+/* ~~~~~~~~~~ Fill the whole space ~~~~~~~~~~ */
+/* ~~~~~~~~~~ Font Size Classes ~~~~~~~~~~ */
+/* ~~~~~~~~~~ Letter Spacing Classes ~~~~~~~~~~ */
+/* ~~~~~~~~~~ Animated Border Bottom ~~~~~~~~~~ */
+/* ~~~~~~~~~~ Lock Postion ~~~~~~~~~~ */
+/* ~~~~~~~~~~ Hover opacity classes ~~~~~~~~~~ */
+/* ~~~~~~~~~~ Flex 0 0 auto ~~~~~~~~~~ */
+/* ~~~~~~~~~~ Crunch Button ~~~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~ ACF Block Content with video in blob Template Part Styles ~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+.acf-block-content-with-video-in-blob__blob-1 {
+  border-radius: 30% 70% 70% 30%/30% 30% 70% 70%;
+  -webkit-animation: organic 10s infinite alternate ease-in-out;
+          animation: organic 10s infinite alternate ease-in-out;
+  background-image: linear-gradient(108deg, #000B5B 5%, #EEF0FF 100%); }
+  .acf-block-content-with-video-in-blob__blob-1 {
+    right: 70%;
+    top: 45%;
+    width: 15rem;
+    height: 15rem; }
+    @media (min-width: 576px) {
+      .acf-block-content-with-video-in-blob__blob-1 {
+        right: 58.75%;
+        top: 37.5%;
+        width: 18.75rem;
+        height: 18.75rem; } }
+    @media (min-width: 768px) {
+      .acf-block-content-with-video-in-blob__blob-1 {
+        right: 47.5%;
+        top: 30%;
+        width: 22.5rem;
+        height: 22.5rem; } }
+    @media (min-width: 992px) {
+      .acf-block-content-with-video-in-blob__blob-1 {
+        right: 36.25%;
+        top: 22.5%;
+        width: 26.25rem;
+        height: 26.25rem; } }
+    @media (min-width: 1200px) {
+      .acf-block-content-with-video-in-blob__blob-1 {
+        right: 25%;
+        top: 15%;
+        width: 30rem;
+        height: 30rem; } }
+
+.acf-block-content-with-video-in-blob__video-placeholder {
+  margin-right: auto; }
+  .acf-block-content-with-video-in-blob__video-placeholder {
+    max-width: 24.09375rem; }
+    @media (min-width: 576px) {
+      .acf-block-content-with-video-in-blob__video-placeholder {
+        max-width: 26.10156rem; } }
+    @media (min-width: 768px) {
+      .acf-block-content-with-video-in-blob__video-placeholder {
+        max-width: 28.10938rem; } }
+    @media (min-width: 992px) {
+      .acf-block-content-with-video-in-blob__video-placeholder {
+        max-width: 30.11719rem; } }
+    @media (min-width: 1200px) {
+      .acf-block-content-with-video-in-blob__video-placeholder {
+        max-width: 32.125rem; } }
+  @media (min-width: 992px) {
+    .acf-block-content-with-video-in-blob__video-placeholder {
+      margin-right: 0; } }
+  .acf-block-content-with-video-in-blob__video-placeholder:hover .acf-block-content-with-video__play-icon {
+    -webkit-transform: translate(-50%, -50%) scale(1.15);
+            transform: translate(-50%, -50%) scale(1.15); }
+
+.acf-block-content-with-video-in-blob__border-blob {
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%); }
+  .acf-block-content-with-video-in-blob__border-blob {
+    width: 23.625rem;
+    height: 25.06563rem; }
+    @media (min-width: 576px) {
+      .acf-block-content-with-video-in-blob__border-blob {
+        width: 27.5625rem;
+        height: 28.43984rem; } }
+    @media (min-width: 768px) {
+      .acf-block-content-with-video-in-blob__border-blob {
+        width: 31.5rem;
+        height: 31.81406rem; } }
+    @media (min-width: 992px) {
+      .acf-block-content-with-video-in-blob__border-blob {
+        width: 35.4375rem;
+        height: 35.18828rem; } }
+    @media (min-width: 1200px) {
+      .acf-block-content-with-video-in-blob__border-blob {
+        width: 39.375rem;
+        height: 38.5625rem; } }
+  @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+    .acf-block-content-with-video-in-blob__border-blob {
+      width: 19.2rem !important;
+      height: 18.9rem !important; } }
+  @media screen and (-ms-high-contrast: active) and (min-width: 576px), (-ms-high-contrast: none) and (min-width: 576px) {
+    .acf-block-content-with-video-in-blob__border-blob {
+      width: 24rem !important;
+      height: 23.625rem !important; } }
+  @media screen and (-ms-high-contrast: active) and (min-width: 768px), (-ms-high-contrast: none) and (min-width: 768px) {
+    .acf-block-content-with-video-in-blob__border-blob {
+      width: 28.8rem !important;
+      height: 28.35rem !important; } }
+  @media screen and (-ms-high-contrast: active) and (min-width: 992px), (-ms-high-contrast: none) and (min-width: 992px) {
+    .acf-block-content-with-video-in-blob__border-blob {
+      width: 33.6rem !important;
+      height: 33.075rem !important; } }
+  @media screen and (-ms-high-contrast: active) and (min-width: 1200px), (-ms-high-contrast: none) and (min-width: 1200px) {
+    .acf-block-content-with-video-in-blob__border-blob {
+      width: 38.4rem !important;
+      height: 37.8rem !important; } }
+
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+  .acf-block-content-with-video-in-blob__video-image {
+    width: 16rem !important;
+    height: 15.75rem !important; } }
+  @media screen and (-ms-high-contrast: active) and (min-width: 576px), (-ms-high-contrast: none) and (min-width: 576px) {
+    .acf-block-content-with-video-in-blob__video-image {
+      width: 20rem !important;
+      height: 19.6875rem !important; } }
+  @media screen and (-ms-high-contrast: active) and (min-width: 768px), (-ms-high-contrast: none) and (min-width: 768px) {
+    .acf-block-content-with-video-in-blob__video-image {
+      width: 24rem !important;
+      height: 23.625rem !important; } }
+  @media screen and (-ms-high-contrast: active) and (min-width: 992px), (-ms-high-contrast: none) and (min-width: 992px) {
+    .acf-block-content-with-video-in-blob__video-image {
+      width: 28rem !important;
+      height: 27.5625rem !important; } }
+  @media screen and (-ms-high-contrast: active) and (min-width: 1200px), (-ms-high-contrast: none) and (min-width: 1200px) {
+    .acf-block-content-with-video-in-blob__video-image {
+      width: 32rem !important;
+      height: 31.5rem !important; } }
+
+.acf-block-content-with-video-in-blob__play-icon {
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  cursor: pointer; }
+  .acf-block-content-with-video-in-blob__play-icon {
+    width: 4.5rem;
+    height: 4.5rem; }
+    @media (min-width: 576px) {
+      .acf-block-content-with-video-in-blob__play-icon {
+        width: 4.875rem;
+        height: 4.875rem; } }
+    @media (min-width: 768px) {
+      .acf-block-content-with-video-in-blob__play-icon {
+        width: 5.25rem;
+        height: 5.25rem; } }
+    @media (min-width: 992px) {
+      .acf-block-content-with-video-in-blob__play-icon {
+        width: 5.625rem;
+        height: 5.625rem; } }
+    @media (min-width: 1200px) {
+      .acf-block-content-with-video-in-blob__play-icon {
+        width: 6rem;
+        height: 6rem; } }
+
+.acf-block-content-with-video-in-blob__clipped-video {
+  position: absolute;
+  background-size: cover;
+  overflow: hidden;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%); }
+  @media (min-width: 768px) {
+    .acf-block-content-with-video-in-blob__clipped-video {
+      position: static;
+      -webkit-transform: unset;
+              transform: unset; } }
+  .acf-block-content-with-video-in-blob__clipped-video {
+    width: 19.275rem;
+    height: 18.8625rem; }
+    @media (min-width: 576px) {
+      .acf-block-content-with-video-in-blob__clipped-video {
+        width: 22.4875rem;
+        height: 22.00625rem; } }
+    @media (min-width: 768px) {
+      .acf-block-content-with-video-in-blob__clipped-video {
+        width: 25.7rem;
+        height: 25.15rem; } }
+    @media (min-width: 992px) {
+      .acf-block-content-with-video-in-blob__clipped-video {
+        width: 28.9125rem;
+        height: 28.29375rem; } }
+    @media (min-width: 1200px) {
+      .acf-block-content-with-video-in-blob__clipped-video {
+        width: 32.125rem;
+        height: 31.4375rem; } }
+
+.acf-block-content-with-video-in-blob__clipped-image img {
+  max-width: 150%; }
+
+.acf-block-content-with-video-in-blob__clipped-image::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  width: 110%;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#FFFFFF), to(#316CFD));
+  background-image: linear-gradient(180deg, #FFFFFF 0%, #316CFD 100%);
+  opacity: .4;
+  z-index: 10; }
+
+.acf-block-content-with-video-in-blob__clip-mask {
+  position: absolute;
+  width: 0;
+  height: 0; }
+
+.acf-block-content-with-video-in-blob__clipped-iframe {
+  -webkit-transform: translateX(-30%);
+          transform: translateX(-30%); }
+  .acf-block-content-with-video-in-blob__clipped-iframe {
+    width: 45.5rem !important; }
+    @media (min-width: 576px) {
+      .acf-block-content-with-video-in-blob__clipped-iframe {
+        width: 50.375rem !important; } }
+    @media (min-width: 768px) {
+      .acf-block-content-with-video-in-blob__clipped-iframe {
+        width: 55.25rem !important; } }
+    @media (min-width: 992px) {
+      .acf-block-content-with-video-in-blob__clipped-iframe {
+        width: 60.125rem !important; } }
+    @media (min-width: 1200px) {
+      .acf-block-content-with-video-in-blob__clipped-iframe {
+        width: 65rem !important; } }
+

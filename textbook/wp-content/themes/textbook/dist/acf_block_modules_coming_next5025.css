@@ -1,0 +1,170 @@
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~~~ Bootstrap Variables ~~~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~ Color system ~~~~~ */
+/* ~~~~~ Grid ~~~~~ */
+/* ~~~~~ Fonts ~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~~ Variables ~~~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~~ WP Admin Bar heights ~~~~~~~~~~ */
+/* ~~~~~~~~~~ Settings ~~~~~~~~~~ */
+/* ~~~~~~~~~~ Fonts ~~~~~~~~~~ */
+/* ~~~~~~~~~~ Plugins ~~~~~~~~~~ */
+/* ~~~~~ OWL Carousel ~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~~ Mixins ~~~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~~ Helper Functions ~~~~~~~~~~ */
+/* ~~~~~ Strip Unit ~~~~~ */
+/* ~~~~~ Convert to REM ~~~~~ */
+/* ~~~~~ Get Crunch Spacer ~~~~~ */
+/* ~~~~~~~~~~~~ Fluid  ~~~~~~~~~~~~ */
+/* ~~~~~~~~ String split ~~~~~~~~ */
+/* ~~~~~~~~ String replace ~~~~~~~~ */
+/* ~~~~~~~~ Join sign with number  ~~~~~~~~ */
+/* ~~~~~~~~~~ String to number conversion by Hugo Giraudel ~~~~~~~~~~ */
+/* ~~~~~ Helper for fluid function ~~~~~ */
+/* ~~~~~ Letter-spacing functions ~~~~~ */
+/* ~~~~~~~~ Return index of array diff ~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~~~ Fluid ~~~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~ Fluid margin/padding helpers ~~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~ Spacings ~~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~~ Sizing Class Generator ~~~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~ Classes ~~~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~~ Respond to specific brekpoint ~~~~~~~~~~ */
+/* ~~~~~~~~~~ Bootsrap Container Max Width ~~~~~~~~~~ */
+/* ~~~~~~~~~~ Transition ~~~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~~ Placeholders ~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~~ Background cover ~~~~~~~~~~ */
+/* ~~~~~~~~~~ Object Fit ~~~~~~~~~~ */
+/* ~~~~~~~~~~ Hide ~~~~~~~~~~ */
+/* ~~~~~~~~~~ Adjustable Element ~~~~~~~~~~ */
+/* ~~~~~~~~~~ Fill the whole space ~~~~~~~~~~ */
+/* ~~~~~~~~~~ Font Size Classes ~~~~~~~~~~ */
+/* ~~~~~~~~~~ Letter Spacing Classes ~~~~~~~~~~ */
+/* ~~~~~~~~~~ Animated Border Bottom ~~~~~~~~~~ */
+/* ~~~~~~~~~~ Lock Postion ~~~~~~~~~~ */
+/* ~~~~~~~~~~ Hover opacity classes ~~~~~~~~~~ */
+/* ~~~~~~~~~~ Flex 0 0 auto ~~~~~~~~~~ */
+/* ~~~~~~~~~~ Crunch Button ~~~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~~ ACF Block Modules Coming Next Template Part Styles ~~~~~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+.acf-block-modules-coming-next .single-module {
+  box-shadow: 0 0.125rem 0.6875rem 0 rgba(148, 155, 223, 0.15);
+  border-radius: 1.5rem; }
+  .acf-block-modules-coming-next .single-module {
+    padding: 0.75rem; }
+    @media (min-width: 576px) {
+      .acf-block-modules-coming-next .single-module {
+        padding: 0.84375rem; } }
+    @media (min-width: 768px) {
+      .acf-block-modules-coming-next .single-module {
+        padding: 0.9375rem; } }
+    @media (min-width: 992px) {
+      .acf-block-modules-coming-next .single-module {
+        padding: 1.03125rem; } }
+    @media (min-width: 1200px) {
+      .acf-block-modules-coming-next .single-module {
+        padding: 1.125rem; } }
+  .acf-block-modules-coming-next .single-module__date {
+    opacity: 0.73;
+    background: rgba(240, 242, 255, 0.51);
+    border: 1px solid rgba(171, 176, 234, 0.26);
+    border-radius: 1rem;
+    padding-top: .25rem;
+    padding-bottom: .375rem; }
+    .acf-block-modules-coming-next .single-module__date {
+      width: 4rem;
+      min-width: 4rem;
+      height: 4rem;
+      font-size: 0.625rem; }
+      @media (min-width: 576px) {
+        .acf-block-modules-coming-next .single-module__date {
+          width: 4.15625rem;
+          min-width: 4.15625rem;
+          height: 4.15625rem;
+          font-size: 0.65625rem; } }
+      @media (min-width: 768px) {
+        .acf-block-modules-coming-next .single-module__date {
+          width: 4.3125rem;
+          min-width: 4.3125rem;
+          height: 4.3125rem;
+          font-size: 0.6875rem; } }
+      @media (min-width: 992px) {
+        .acf-block-modules-coming-next .single-module__date {
+          width: 4.46875rem;
+          min-width: 4.46875rem;
+          height: 4.46875rem;
+          font-size: 0.71875rem; } }
+      @media (min-width: 1200px) {
+        .acf-block-modules-coming-next .single-module__date {
+          width: 4.625rem;
+          min-width: 4.625rem;
+          height: 4.625rem;
+          font-size: 0.75rem; } }
+  .acf-block-modules-coming-next .single-module__title {
+    font-size: 1.25rem; }
+    @media (min-width: 576px) {
+      .acf-block-modules-coming-next .single-module__title {
+        font-size: 1.34375rem; } }
+    @media (min-width: 768px) {
+      .acf-block-modules-coming-next .single-module__title {
+        font-size: 1.4375rem; } }
+    @media (min-width: 992px) {
+      .acf-block-modules-coming-next .single-module__title {
+        font-size: 1.53125rem; } }
+    @media (min-width: 1200px) {
+      .acf-block-modules-coming-next .single-module__title {
+        font-size: 1.625rem; } }
+  .acf-block-modules-coming-next .single-module__topics-icon {
+    width: .9375rem;
+    height: .75rem;
+    min-width: .9375rem; }
+  .acf-block-modules-coming-next .single-module__clock-icon {
+    width: 1rem;
+    height: 1rem;
+    min-width: 1rem; }
+  .acf-block-modules-coming-next .single-module__detail-title {
+    font-size: 0.75rem; }
+    @media (min-width: 576px) {
+      .acf-block-modules-coming-next .single-module__detail-title {
+        font-size: 0.78125rem; } }
+    @media (min-width: 768px) {
+      .acf-block-modules-coming-next .single-module__detail-title {
+        font-size: 0.8125rem; } }
+    @media (min-width: 992px) {
+      .acf-block-modules-coming-next .single-module__detail-title {
+        font-size: 0.84375rem; } }
+    @media (min-width: 1200px) {
+      .acf-block-modules-coming-next .single-module__detail-title {
+        font-size: 0.875rem; } }
+
+.acf-block-modules-coming-next .content-wrapper .one-line-form {
+  margin-top: 1rem !important; }
+  @media (min-width: 576px) {
+    .acf-block-modules-coming-next .content-wrapper .one-line-form {
+      margin-top: 1.25rem !important; } }
+  @media (min-width: 768px) {
+    .acf-block-modules-coming-next .content-wrapper .one-line-form {
+      margin-top: 1.5rem !important; } }
+  @media (min-width: 992px) {
+    .acf-block-modules-coming-next .content-wrapper .one-line-form {
+      margin-top: 1.75rem !important; } }
+  @media (min-width: 1200px) {
+    .acf-block-modules-coming-next .content-wrapper .one-line-form {
+      margin-top: 2rem !important; } }
+  .acf-block-modules-coming-next .content-wrapper .one-line-form h3.gform_title {
+    margin-bottom: 1.75rem !important;
+    line-height: 1.6;
+    text-align: center; }
+

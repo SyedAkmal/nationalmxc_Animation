@@ -1,0 +1,132 @@
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~~~ Bootstrap Variables ~~~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~ Color system ~~~~~ */
+/* ~~~~~ Grid ~~~~~ */
+/* ~~~~~ Fonts ~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~~ Variables ~~~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~~ WP Admin Bar heights ~~~~~~~~~~ */
+/* ~~~~~~~~~~ Settings ~~~~~~~~~~ */
+/* ~~~~~~~~~~ Fonts ~~~~~~~~~~ */
+/* ~~~~~~~~~~ Plugins ~~~~~~~~~~ */
+/* ~~~~~ OWL Carousel ~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~~ Mixins ~~~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~~ Helper Functions ~~~~~~~~~~ */
+/* ~~~~~ Strip Unit ~~~~~ */
+/* ~~~~~ Convert to REM ~~~~~ */
+/* ~~~~~ Get Crunch Spacer ~~~~~ */
+/* ~~~~~~~~~~~~ Fluid  ~~~~~~~~~~~~ */
+/* ~~~~~~~~ String split ~~~~~~~~ */
+/* ~~~~~~~~ String replace ~~~~~~~~ */
+/* ~~~~~~~~ Join sign with number  ~~~~~~~~ */
+/* ~~~~~~~~~~ String to number conversion by Hugo Giraudel ~~~~~~~~~~ */
+/* ~~~~~ Helper for fluid function ~~~~~ */
+/* ~~~~~ Letter-spacing functions ~~~~~ */
+/* ~~~~~~~~ Return index of array diff ~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~~~ Fluid ~~~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~ Fluid margin/padding helpers ~~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~ Spacings ~~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~~ Sizing Class Generator ~~~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~ Classes ~~~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~~ Respond to specific brekpoint ~~~~~~~~~~ */
+/* ~~~~~~~~~~ Bootsrap Container Max Width ~~~~~~~~~~ */
+/* ~~~~~~~~~~ Transition ~~~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~~ Placeholders ~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~~ Background cover ~~~~~~~~~~ */
+/* ~~~~~~~~~~ Object Fit ~~~~~~~~~~ */
+/* ~~~~~~~~~~ Hide ~~~~~~~~~~ */
+/* ~~~~~~~~~~ Adjustable Element ~~~~~~~~~~ */
+/* ~~~~~~~~~~ Fill the whole space ~~~~~~~~~~ */
+/* ~~~~~~~~~~ Font Size Classes ~~~~~~~~~~ */
+/* ~~~~~~~~~~ Letter Spacing Classes ~~~~~~~~~~ */
+/* ~~~~~~~~~~ Animated Border Bottom ~~~~~~~~~~ */
+/* ~~~~~~~~~~ Lock Postion ~~~~~~~~~~ */
+/* ~~~~~~~~~~ Hover opacity classes ~~~~~~~~~~ */
+/* ~~~~~~~~~~ Flex 0 0 auto ~~~~~~~~~~ */
+/* ~~~~~~~~~~ Crunch Button ~~~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~~ ACF Block Textbook Testimonials Template Part Styles ~~~~~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+.acf-block-textbook-testimonials__carousel .carousel-item {
+  margin-bottom: 2rem; }
+
+.acf-block-textbook-testimonials__carousel .tns-nav {
+  position: absolute;
+  left: .9375rem; }
+  @media (min-width: 576px) {
+    .acf-block-textbook-testimonials__carousel .tns-nav {
+      left: calc(50% - 14.9375rem); } }
+  @media (min-width: 768px) {
+    .acf-block-textbook-testimonials__carousel .tns-nav {
+      left: calc(50% - 20.5625rem); } }
+  .acf-block-textbook-testimonials__carousel .tns-nav button {
+    border: none;
+    border-radius: 50%;
+    width: .875rem;
+    height: .875rem;
+    background-color: #E2E5FF;
+    margin-right: .5rem; }
+    .acf-block-textbook-testimonials__carousel .tns-nav button.tns-nav-active {
+      background-color: #29305D; }
+
+.acf-block-textbook-testimonials .textbook-testimonials-list__link {
+  opacity: .5; }
+  .acf-block-textbook-testimonials .textbook-testimonials-list__link:hover {
+    opacity: .7; }
+  .acf-block-textbook-testimonials .textbook-testimonials-list__link.active {
+    opacity: 1; }
+
+.acf-block-textbook-testimonials .textbook-testimonial-content {
+  margin-right: -15px;
+  margin-left: -15px; }
+  @media (min-width: 576px) {
+    .acf-block-textbook-testimonials .textbook-testimonial-content {
+      border-radius: 1rem; } }
+  @media (min-width: 768px) {
+    .acf-block-textbook-testimonials .textbook-testimonial-content {
+      border-radius: 1.33333rem; } }
+  @media (min-width: 992px) {
+    .acf-block-textbook-testimonials .textbook-testimonial-content {
+      border-radius: 1.66667rem; } }
+  @media (min-width: 1200px) {
+    .acf-block-textbook-testimonials .textbook-testimonial-content {
+      border-radius: 2rem; } }
+  @media (min-width: 576px) {
+    .acf-block-textbook-testimonials .textbook-testimonial-content {
+      margin-left: 0;
+      margin-right: 0; } }
+  .acf-block-textbook-testimonials .textbook-testimonial-content__icon {
+    right: .9375rem;
+    bottom: -2rem; }
+    .acf-block-textbook-testimonials .textbook-testimonial-content__icon {
+      width: 3.5rem; }
+      @media (min-width: 576px) {
+        .acf-block-textbook-testimonials .textbook-testimonial-content__icon {
+          width: 3.875rem; } }
+      @media (min-width: 768px) {
+        .acf-block-textbook-testimonials .textbook-testimonial-content__icon {
+          width: 4.25rem; } }
+      @media (min-width: 992px) {
+        .acf-block-textbook-testimonials .textbook-testimonial-content__icon {
+          width: 4.625rem; } }
+      @media (min-width: 1200px) {
+        .acf-block-textbook-testimonials .textbook-testimonial-content__icon {
+          width: 5rem; } }
+    @media (min-width: 992px) {
+      .acf-block-textbook-testimonials .textbook-testimonial-content__icon {
+        right: 0; } }
+  .acf-block-textbook-testimonials .textbook-testimonial-content__position {
+    color: #6E72A2; }
+
